@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+.header{
+    height: 150px;
+    width: 100%;
+    background-color: orange;
+}
+.footer{
+    height: 250px;
+    width: 100%;
+    background-color: lightcoral;
+}
